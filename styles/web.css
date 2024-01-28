@@ -1,0 +1,29 @@
+/* add your styling and layout CSS here */
+.fixed-top-2 {
+    margin-top: 100px;
+}
+
+body {
+    padding-top: 105px;
+    background-color: black;
+}
+.headertext:hover {
+    text-decoration: underline;
+}
+/**/
+.headermenu {
+    width: 50%;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.headermenu li {
+    list-style: none;
+    padding: 26px 30px;
+}
+  
+.headermenu li a {
+
+    text-decoration: none;
+    color: white;
+}
